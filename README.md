@@ -1,5 +1,5 @@
 # iot-pcb-esp32-eagle-v2
-Second version for PCB
+NodeMCU Grove Shield Design from ThingForward.io
 
 See [ESP32 DevKitC - PCB Design Story Blog Post](https://www.thingforward.io/index.php?id=107)
 
